@@ -1,2 +1,2 @@
 # New Project GitDemo
-This project was created from local sysytem
+This project was created from local system.
